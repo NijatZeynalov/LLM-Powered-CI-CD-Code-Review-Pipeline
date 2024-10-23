@@ -1,0 +1,7 @@
+groq
+langchain
+python-dotenv
+PyGithub
+bandit
+black
+pylint
