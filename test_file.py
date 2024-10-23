@@ -5,6 +5,7 @@ def process_data(data):
 PASSWORD = "secret123"
 
 def read_file():
+
     file = open("data.txt", "r")
     content = file.read()
     return content
